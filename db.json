@@ -1,0 +1,65 @@
+{
+    "influencers": [
+      {
+        "id": 1,
+        "name": "Harry",
+        "Domain": "Fashion",
+        "InstaId": "@fashion_addict",
+        "Followers": "600k followers",
+        "Description": "Your go-to source for all things fashion. Let's slay together!",
+        "HighestReached": "1.2M views",
+        "DemandPerPromotion": "$1500 per post",
+        "Email": "fashionaddii@gmail.com",
+        "PhoneNumber": "9784125621"
+      },
+      {
+        "id": 2,
+        "name": "Akshay",
+        "Domain": "Travel",
+        "InstaId": "@adventure_seekers",
+        "Followers": "400k followers",
+        "Description": "Embark on unforgettable adventures with us. Wanderlust guaranteed!",
+        "HighestReached": "900k views",
+        "DemandPerPromotion": "$1000 per post",
+        "Email": "adventure_seekersi@gmail.com",
+        "PhoneNumber": "9784445621"
+      },
+      {
+        "id": 3,
+        "name": "Emma",
+        "Domain": "Fitness",
+        "InstaId": "@fit_fabulous",
+        "Followers": "800k followers",
+        "Description": "Empowering fitness enthusiasts to crush their goals. Let's get fit and fabulous together!",
+        "HighestReached": "1.5M views",
+        "DemandPerPromotion": "$2000 per post",
+        "Email": "fit_fabulousi@gmail.com",
+        "PhoneNumber": "8745645621"
+      },
+      {
+        "id": 4,
+        "name": "Sophia",
+        "Domain": "Beauty",
+        "InstaId": "@beauty_guru",
+        "Followers": "1M followers",
+        "Description": "Your beauty destination for makeup tips, skincare routines, and all things glam.",
+        "HighestReached": "2.5M views",
+        "DemandPerPromotion": "$2500 per post",
+        "Email": "beauty_guru@gmail.com",
+        "PhoneNumber": "8747895621"
+      },
+      {
+        "id": 5,
+        "name": "Oliver",
+        "Domain": "Food",
+        "InstaId": "@food_heaven",
+        "Followers": "700k followers",
+        "Description": "Indulge in culinary delights from around the world. Foodies unite!",
+        "HighestReached": "1.8M views",
+        "DemandPerPromotion": "$1800 per post",
+        "Email": "food_heaven@gmail.com",
+        "PhoneNumber": "6845995621"
+      }
+    ]
+  }
+  

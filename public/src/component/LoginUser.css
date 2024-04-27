@@ -1,0 +1,51 @@
+
+.outerBox {
+  background-color: rgb(238, 236, 236);
+  border: 10px;
+  border-radius: 5%;
+  height:600px;
+  border: 5px solid rgb(23, 46, 38);
+  width:400px;
+}
+.loginBox {
+  width : 400px ;
+  font-style:italic bold underline;
+  text-align: center;
+  padding: 100px;
+  margin-right: 5%;
+}
+body
+{
+background-color: rgba(181, 227, 212, 0.4);
+;
+}
+
+.text
+{
+  align-content: center;
+  justify-content: center;
+  text-decoration-color: rgb(135, 135, 180);
+}
+.register {
+    width: 50%;
+}
+@media (max-width: 750px) {
+  .outerBoxs {
+    display: flex;
+    flex-direction: column;
+  }
+  .loginBox {
+    width:100%;
+    align-content: center;
+    justify-self:center;
+  }
+  .register
+  { 
+    display: contents;
+    align-content: center;
+    justify-self: center;
+  }
+  .text{
+    display: inline-block;
+  }
+}
